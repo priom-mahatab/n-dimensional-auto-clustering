@@ -1,0 +1,54 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# JupyterHub runtime files
+.jupyter/
+.local/
+
+# Environment variables
+.env
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+tmp/
+temp/
+
+# Data files (optional)
+data/
+datasets/
+
+# Model checkpoints (optional)
+checkpoints/
+
+# Secrets
+*.pem
+*.key
+*.nc
+bnfhsrlM1.a1/
+*.nc
+bnfhsrlM1.a1/
+*.nc
+bnfhsrlM1.a1/
